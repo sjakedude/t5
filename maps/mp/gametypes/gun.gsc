@@ -83,27 +83,26 @@ main()
 	PrecacheString( &"MP_HUMILIATION" );
 	PrecacheString( &"MP_HUMILIATED" );
 	
-	addGunToProgression( "knife_ballistic_mp" );
+	addGunToProgression( "l96a1_mp" );
+	addGunToProgression( "spas_mp" );
+	addGunToProgression( "m16_mp" );
+	addGunToProgression( "crossbow_explosive_mp", "explosive_bolt_mp" );
+	addGunToProgression( "wa2000_mp" );
 	addGunToProgression( "china_lake_mp" );
-	addGunToProgression( "m60_mp" );
 	addGunToProgression( "mp5k_mp" );
-	addGunToProgression( "m14_mp" );
-	addGunToProgression( "m72_law_mp" );
-    addGunToProgression( "spas_mp" );
-	addGunToProgression( "aug_mp" );
-	addGunToProgression( "skorpiondw_mp" );
-    addGunToProgression( "ithaca_mp" );
-    addGunToProgression( "m202_flash_wager_mp" );
+	addGunToProgression( "python_speed_mp" );
 	addGunToProgression( "ak74u_mp" );
 	addGunToProgression( "famas_mp" );
-    addGunToProgression( "hk21_mp" );
-    addGunToProgression( "crossbow_explosive_mp", "explosive_bolt_mp" );
-    addGunToProgression( "m16_mp" );
-    addGunToProgression( "china_lake_mp" );
+	addGunToProgression( "m14_mp" );
+	addGunToProgression( "ithaca_mp" );
+	addGunToProgression( "hk21_mp" );
+	addGunToProgression( "skorpiondw_mp" );
+	addGunToProgression( "m202_flash_wager_mp" );
+	addGunToProgression( "aug_mp" );
+	addGunToProgression( "m60_mp" );
 	addGunToProgression( "makarovdw_mp" );
-    addGunToProgression( "wa2000_mp" );
-	addGunToProgression( "python_speed_mp" );
-	addGunToProgression( "l96a1_mp" );
+	addGunToProgression( "knife_ballistic_mp" );
+	addGunToProgression( "m72_law_mp" );
     
 
 	
